@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "//github.io/HoldenLem/react-meme/static/css/main.dbf94e6d.css",
-    "main.js": "//github.io/HoldenLem/react-meme/static/js/main.a4c6edf2.js",
-    "static/js/453.c41b37cd.chunk.js": "//github.io/HoldenLem/react-meme/static/js/453.c41b37cd.chunk.js",
-    "static/media/me.png": "//github.io/HoldenLem/react-meme/static/media/me.1b5ebad6348e0ff4bc26.png",
-    "index.html": "//github.io/HoldenLem/react-meme/index.html",
-    "main.dbf94e6d.css.map": "//github.io/HoldenLem/react-meme/static/css/main.dbf94e6d.css.map",
-    "main.a4c6edf2.js.map": "//github.io/HoldenLem/react-meme/static/js/main.a4c6edf2.js.map",
-    "453.c41b37cd.chunk.js.map": "//github.io/HoldenLem/react-meme/static/js/453.c41b37cd.chunk.js.map"
+    "main.css": "/HoldenLem/react-meme/static/css/main.dbf94e6d.css",
+    "main.js": "/HoldenLem/react-meme/static/js/main.b649982b.js",
+    "static/js/453.c41b37cd.chunk.js": "/HoldenLem/react-meme/static/js/453.c41b37cd.chunk.js",
+    "static/media/me.png": "/HoldenLem/react-meme/static/media/me.1b5ebad6348e0ff4bc26.png",
+    "index.html": "/HoldenLem/react-meme/index.html",
+    "main.dbf94e6d.css.map": "/HoldenLem/react-meme/static/css/main.dbf94e6d.css.map",
+    "main.b649982b.js.map": "/HoldenLem/react-meme/static/js/main.b649982b.js.map",
+    "453.c41b37cd.chunk.js.map": "/HoldenLem/react-meme/static/js/453.c41b37cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dbf94e6d.css",
-    "static/js/main.a4c6edf2.js"
+    "static/js/main.b649982b.js"
   ]
 }
